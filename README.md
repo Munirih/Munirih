@@ -5,10 +5,11 @@
 ---
 
 ### 👩‍💻 About Me
-I'm a tech enthusiast exploring **Python development** and **DevOps tools**.  
-I love learning how things work behind the scenes — from writing scripts to automating workflows.
 
-When I'm not coding, you’ll probably find me enjoying nature 🌿.
+I'm an enthusiastic developer currently focused on learning **Python**, the **DevOps toolchain**, and **Data Science**.  
+I enjoy understanding how systems work behind the scenes, architecting CI/CD pipelines, automating deployments, analyzing data, and building simple, effective solutions.
+
+I'm actively working on small projects to strengthen my foundation in programming, DevOps practices, and data analysis.
 
 ---
  
