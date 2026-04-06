@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munirih&label=Profile%20views&color=0e75b6&style=flat" alt="munirih" /> </p>
----
-
 ### 👩‍💻 About Me
 
 I'm an enthusiastic developer focused on learning **Python**, the **DevOps toolchain**, and **Data Science**.  
@@ -43,3 +39,4 @@ Feel free to reach out or follow my work as I grow in tech!
 
 **Thanks for visiting my profile!**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munirih&label=Profile%20views&color=0e75b6&style=flat" alt="munirih" /> Hosted by GitHub</p> 
