@@ -5,9 +5,9 @@
 I'm an enthusiastic developer focused on learning **Python**, the **DevOps toolchain**, and **Data Science**.  
 I enjoy understanding how systems work behind the scenes, architecting CI/CD pipelines, automating deployments, building simple, effective solutions and analyzing data.
 
-I'm currently working on small projects to strengthen my foundation in programming, DevOps practices, and data analysis.
+I'm currently working on small projects to strengthen my skills in programming, DevOps practices, and data analysis.
 
-Outside of tech, I enjoy exploring new places, taking a walk...    
+Outside of tech, I enjoy exploring new places, food, taking a walk...    
 
 ---
  
