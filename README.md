@@ -33,7 +33,7 @@ Feel free to reach out or follow my work as I grow in tech!
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/munirih-nganyade-zowe-7a625840/" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munirih-nganyade-zowe-7a625840/" height="30" width="40" />
+ <img align="center" src="https://www.linkedin.com/in/munirih-nganyade-zowe-7a625840/" alt="Munirih's linkedin account" height="30" width="40" />
 </a>
 </p>
 
