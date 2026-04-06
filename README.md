@@ -10,12 +10,11 @@ Outside of tech, I enjoy exploring new places, taking a walk.
 ---
  
 ### 🧰 Languages and Tools
+
 [![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,mysql,sqlite,html,css,bootstrap,selenium,git,githubactions,aws,linux,bash,docker,terraform,kubernetes&theme=light)](https://skillicons.dev)
 
-
-
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munirih&show_icons=true&locale=en&layout=compact" alt="munirih" /></p>
@@ -23,8 +22,10 @@ Outside of tech, I enjoy exploring new places, taking a walk.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munirih&show_icons=true&locale=en" alt="munirih" /></p>
 
 ---
+-->
 
 ### 🌐 Connect With Me
+
 Feel free to reach out or follow my work as I grow in tech!
 
 
