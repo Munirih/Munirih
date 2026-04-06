@@ -18,8 +18,8 @@ Outside of tech, I enjoy exploring new places, taking a walk.
 
 ### 📊 GitHub Stats
 
-<p align="center">
 <!--
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Munirih&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munirih&layout=compact&theme=tokyonight" height="150" />
 </p>
@@ -48,4 +48,3 @@ Feel free to reach out or follow my work as I grow in tech!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munirih&label=Profile%20views&color=0e75b6&style=flat" alt="munirih" /> </p> 
-<p> Hosted with ❤ by GitHub</p>
