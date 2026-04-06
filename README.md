@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Munirih</h1>
-<h3 align="center">A Software developer and DevOps Engineer</h3>
+<h1 align="center">Hi there 👋</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munirih&label=Profile%20views&color=0e75b6&style=flat" alt="munirih" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/munirih-nganyade-zowe-7a625840/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munirih-nganyade-zowe-7a625840/" height="30" width="40" /></a>
-</p>
-
 ---
 
+### 👩‍💻 About Me
+I'm a tech enthusiast exploring **Python development** and **DevOps tools**.  
+I love learning how things work behind the scenes — from writing scripts to automating workflows.
+
+When I'm not coding, you’ll probably find me enjoying nature 🌿.
+
+---
+ 
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,mysql,sqlite,html,css,bootstrap,selenium,git,githubactions,aws,linux,bash,docker,terraform,kubernetes&theme=light)](https://skillicons.dev)
 
@@ -18,7 +20,34 @@
 -->
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munirih&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munirih&layout=donut)](https://github.com/munirih/github-readme-stats)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munirih&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munirih&layout=compact&theme=tokyonight" height="150" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munirih&layout=compact)](https://github.com/Munirih)
+
+---
+
+
+
+
+
+
+
+### 🌐 Connect With Me
+Feel free to reach out or follow my work as I grow in tech!
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/munirih-nganyade-zowe-7a625840/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munirih-nganyade-zowe-7a625840/" height="30" width="40" />
+</a>
+<a href="mailto:munirih.nganyade@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
+</a>
+</p>
+---
+
+⭐ **Thanks for visiting my profile!**
+
