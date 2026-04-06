@@ -18,5 +18,7 @@
 -->
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munirih&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munirih&layout=donut)](https://github.com/munirih/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munirih&layout=compact)](https://github.com/Munirih)
