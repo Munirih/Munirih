@@ -24,7 +24,7 @@ Outside of tech, I enjoy exploring new places, food, taking a walk...
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munirih&show_icons=true&locale=en" alt="munirih" /></p>
 
 ---
--->
+
 
 ### 🌐 Connect With Me
 
