@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-
+<!--
 ### 👩‍💻 About Me
-
+-->
 I'm an enthusiastic developer focused on learning **Python**, the **DevOps toolchain**, and **Data Science**.  
 I enjoy understanding how systems work behind the scenes, architecting CI/CD pipelines, automating deployments, building simple, effective solutions and analyzing data.
 
