@@ -12,7 +12,7 @@ Outside of tech, I enjoy exploring new places, food, taking a walk...
 
 ---
  
-### 🧰 Languages and Tools I use
+### 🧰 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,mysql,sqlite,html,css,bootstrap,selenium,git,githubactions,aws,linux,bash,docker,terraform,kubernetes&theme=light)](https://skillicons.dev)
 
