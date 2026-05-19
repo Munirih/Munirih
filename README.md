@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 <!--
 ### 👩‍💻 About Me
 -->
 
-I'm an enthusiastic developer focused on learning **Python**, the **DevOps toolchain**, and **Data Science**.  
+I'm Munirih, an enthusiastic developer focused on learning **Python**, the **DevOps toolchain**, and **Data Science**.  
 I enjoy understanding how systems work behind the scenes, architecting CI/CD pipelines, automating deployments, building simple, effective solutions and analyzing data.
 
 I'm currently working on small projects to strengthen my skills in programming, DevOps practices, and data analysis.
@@ -14,7 +14,7 @@ Outside of tech, I enjoy exploring new places, food, taking a walk...
  
 ### 🧰 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,mysql,sqlite,html,css,bootstrap,selenium,git,githubactions,aws,linux,bash,docker,terraform,kubernetes,helm,prometheus,grafana&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,mysql,sqlite,pandas,html,css,bootstrap,selenium,git,githubactions,aws,azure,linux,bash,nginx,docker,terraform,kubernetes,helm,prometheus,grafana&theme=light)](https://skillicons.dev)
 
 ---
 <!--
