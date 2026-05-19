@@ -14,7 +14,7 @@ Outside of tech, I enjoy exploring new places, food, taking a walk...
  
 ### 🧰 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,mysql,sqlite,pandas,html,css,bootstrap,selenium,git,githubactions,aws,azure,linux,bash,nginx,docker,terraform,kubernetes,helm,prometheus,grafana&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,mysql,sqlite,html,css,bootstrap,selenium,git,githubactions,aws,azure,linux,bash,nginx,docker,terraform,kubernetes,prometheus,grafana&theme=light)](https://skillicons.dev)
 
 ---
 <!--
