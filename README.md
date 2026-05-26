@@ -3,10 +3,10 @@
 ### 👩‍💻 About Me
 -->
 
-I'm Munirih, an enthusiastic developer focused on learning **Python**, the **DevOps toolchain**, and **Data Science**.  
+I'm Munirih, an enthusiastic developer focused on learning **Python** and the **DevOps toolchain**.  
 I enjoy understanding how systems work behind the scenes, architecting CI/CD pipelines, automating deployments, building simple, effective solutions and analyzing data.
 
-I'm currently working on small projects to strengthen my skills in programming, DevOps practices, and data analysis.
+I'm currently working on small projects to strengthen my skills in programming and DevOps practice.
 
 Outside of tech, I enjoy exploring new places, food, taking a walk...    
 
