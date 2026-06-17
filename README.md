@@ -4,7 +4,7 @@
 -->
 
 I'm Munirih, an enthusiastic developer focused on learning **Python** and the **DevOps toolchain**.  
-I enjoy understanding how systems work behind the scenes, architecting CI/CD pipelines, automating deployments, building simple, effective solutions and analyzing data.
+I enjoy understanding how systems work behind the scenes, architecting CI/CD pipelines, automating deployments, building simple, effective solutions.
 
 I'm currently working on small projects to strengthen my skills in programming and DevOps practice.
 
